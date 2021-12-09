@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @DanaBoo
+- 🌱 I’m currently learning CS.
