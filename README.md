@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @DanaBoo
-- 🌱 I’m currently learning CS.
+- 👋 Hi, I’m Dana
+- 🌱 I study Computer Science and Computer Graphics.
